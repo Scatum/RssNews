@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daily_articles">Your daily articles</string>
+    <string name="saved_articles">Saved articles</string>
+    <string name="tmp_feed_item_text">4 Wall Street experts weigh in on what makes the stock market\'s rally so fragile</string>
+    <string name="update_the_feed">Update the feed</string>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+    <string name="tmp_text">4 Wall Street experts weigh in on what makes the stock market\'s rally so fragile</string>
+</resources>
