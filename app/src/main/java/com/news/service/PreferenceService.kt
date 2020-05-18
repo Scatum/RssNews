@@ -22,7 +22,7 @@ class PreferenceService(private val context: Context) {
 
 
     fun saveOptionType(interval:Long = 1) {
-        val editor = context?.getSharedPreferences("interfaceMode", Context.MODE_PRIVATE)?.edit()
+        val editor = context?.getSharedPreferences("interval", Context.MODE_PRIVATE)?.edit()
         editor?.putLong("interval", interval)
         editor?.commit()
     }
